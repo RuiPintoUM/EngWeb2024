@@ -10,7 +10,7 @@
 
 ## Aluno
 
-**Nome:** Tiago Barata
+**Nome:** Rui Pinto
 
 **ID:** a100659
 
