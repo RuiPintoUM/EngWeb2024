@@ -1,10 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
 <doc>
     <meta>
         <title>TPC1: Exemplo</title>
-        <date>2024-02-06</date>
+        <date>2024-02-18</date>
         <author>
             <id>a100659</id>
-            <nome>Rui Pinto</nome>
+            <nome>Rui Pedro Fernandes Madeira Pinto<nome>
         </author>
         <uc>
             <sigla>EW2024</sigla>
@@ -12,12 +14,10 @@
         </uc>
     </meta>
     <resumo>
-        <p>Primeiro parágrafo</p>
-        <p>Segundo parágrafo</p>
-        <p>Terceiro parágrafo com <url>link</url><texto>url embutido</texto></p>
+        <p>Neste TPC, tem de se utilizar material fornecido de um ficheiro zip, com informação sobre várias ruas de Braga, tendo uma descrição de cada rua, imagens ilustrativas e imagens reais de cada rua.</p>
+        <p>O objetivo deste TPC é basicamente, gerar um índice de ruas, junto com uma página para cada uma delas. Ao clicar em cada rua, devemos ser direcionados para a página de cada rua.</p>
     </resumo>
-    <resultados>
-        <resultado>resultado 1</resultado>
-        <resultado>resultado 2</resultado>
-    </resultados>
+    <resultado>
+        <resultado>Criação de páginas HTML geradas automaticamente por um script em python(script1.py) através de ficheiros XML</resultado>
+    </resultado>
 </doc>
